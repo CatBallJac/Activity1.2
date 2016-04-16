@@ -803,3 +803,4 @@ C:\Users\Jacqueline\Desktop\Activity1\Activity1\HKeInvestWebApplication\HKeInves
 C:\Users\Jacqueline\Desktop\Activity1\Activity1\HKeInvestWebApplication\HKeInvestWebApplication\obj\Debug\HKeInvestWebApplication.csprojResolveAssemblyReference.cache
 C:\Users\Jacqueline\Desktop\Activity1\Activity1\HKeInvestWebApplication\HKeInvestWebApplication\obj\Debug\HKeInvestWebApplication.dll
 C:\Users\Jacqueline\Desktop\Activity1\Activity1\HKeInvestWebApplication\HKeInvestWebApplication\obj\Debug\HKeInvestWebApplication.pdb
+C:\Users\Tang Yiyang\Documents\GitHub\Comp3111\Activity1.2\Activity1\HKeInvestWebApplication\HKeInvestWebApplication\obj\Debug\HKeInvestWebApplication.pdb
